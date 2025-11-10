@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "types": ["node", "jest"]
+  }
+}
+
+{
+  "devDependencies": {
+    "jest": "^<latest_version>",
+    "@types/jest": "^<latest_version>"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
